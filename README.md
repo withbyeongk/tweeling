@@ -20,7 +20,19 @@
   +	**주문 내역 기간별 조회, 관심 상품 조회**
   +	이벤트 글 등록 및 수정, 삭제, 이벤트 추첨
   +	**1:1 문의 글 등록 및 수정, 삭제, 댓글작성 및 삭제**
-  +	찾아오는 길(지도 API이용), 상품 검색
+  +	찾아오는 길, 상품 검색
+
+- 개발 환경 :<br>
+
+  + OS : Window 10
+  + Development Tool : Eclipse, Visual Studio Code
+  + DBMS : Oracle DB-SQLDeveloper
+  + Server : Apache Tomcat v8.5
+  + Language : Java 1.8, JavaScript5, HTML5, CSS3
+  + Application Tool : JSP 3.2
+  + Design Tool : BootStrap 4.3.1
+  + Library : jQuery 3.4.1
+
 
 - ER Diagram 
 
