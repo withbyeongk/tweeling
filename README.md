@@ -1,6 +1,7 @@
 # Tweeling
 ![image](https://user-images.githubusercontent.com/76987021/212909096-4b10f3cb-f8a2-463b-9856-df303e087578.png)
 
+<hr>
 
 - 주제 : 셀럽 굿즈 쇼핑몰
 
@@ -44,7 +45,8 @@
    개발 성격 상 공부 목적이므로 개발을 하면서 DB가 수정될 수 있다는 점과 최종적으로 소스를 머지할 경우을 고려하여 각자 사용하는 DB를 분리하려고 노력했습니다.<br>
    상품 담당 / 장바구니, 구매 담당 / 문의 게시판 / 이벤트 게시판 / 메인 페이지 등으로 구분하여 최대한 각자가 자신의 생각대로 DB를 수정하며 개발할 수 있도록 했습니다.<br><br>
 
----
+<hr>
+
 <br>
 
 # 담당 기능 설명 : 
@@ -81,12 +83,14 @@
 ![image](https://user-images.githubusercontent.com/76987021/212925306-893a67af-0c9b-416d-aa4f-ff0757486e75.png)<br>
 
 <br>
----
+
+<hr>
+
 <br>
 
 # 타팀원 기능 설명 : 
 
-- 회원가입   - 이XX 팀원 담당 기능<br>
+- 회원가입   - 이XX 팀원 담당<br>
   : 관심 셀럽을 설정할 수 있으며, 회원의 정보를 입력하여 회원가입을 할 수 있습니다.
 
 ![image](https://user-images.githubusercontent.com/76987021/212926562-2e1b5117-d855-4955-a701-79d516aae9c3.png)
@@ -97,12 +101,12 @@
 <br>
 </p>
 
-- 상품 조회    - 배XX 팀원 담당 기능<br>
+- 상품 조회    - 배XX 팀원 담당<br>
   : 우측의 사이드바를 두어 편리하게 메뉴를 이동할 수 있도록 하였으며, 드롭다운 선택버튼을 사용하여 최신순/가격순/판매순으로 상품을 정렬하는 기능을 추가하였습니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212909447-80e5899f-33f1-4f53-b75b-5e4a7e5c5b14.png)
 
-- 상품 등록, 수정, 삭제    - 배XX 팀원 담당 기능<br>
+- 상품 등록, 수정, 삭제    - 배XX 팀원 담당<br>
   : 해당 상품의 셀럽, 카테고리, 상품명, 가격, 이미지 등을 입력할 수 있으며, 상품 수정 및 삭제할 수 있습니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212912568-a9d3b575-a384-48d7-8875-73f5fcba86ee.png)
@@ -114,35 +118,36 @@
   
 ![image](https://user-images.githubusercontent.com/76987021/212921410-69750170-7146-4c27-ade4-6d8c54d17b20.png)
 <br>
-- 상품 상세 조회, 장바구니에 상품 추가, 상품 구매    - 배XX 팀원 담당 기능<br>
+- 상품 상세 조회, 장바구니에 상품 추가, 상품 구매    - 배XX 팀원 담당<br>
   : 상품의 상세 설명 페이지를 보여주며, 상품을 장바구니에 추가하거나 구매할 수 있습니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212909870-a2bd895e-a12c-4e13-9d6c-ae63a9478a8f.png)
 <br>
-- 장바구니 기능     - 김XX 팀원 담당 기능<br>
+- 장바구니 기능     - 김XX 팀원 담당<br>
   : 선택한 상품 삭제 및 개별 상품 삭제, 선택한 상품 및 개별 상품 구매, 관심 상품 추가, 전체 상품 구매를 할 수 있습니다.<br>
   또한 상품의 수량을 변경할 수 있고, 상품 수량변경 및 상품 선택 시 총 구매금액이 변경됩니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212910090-e50da334-8d19-4036-94dd-f3f168af9119.png)
 <br>
-- 구매 기능    - 김XX 팀원 담당 기능<br>
+- 구매 기능    - 김XX 팀원 담당<br>
   : 주문자 정보를 입력하여 상품을 구매할 수 있습니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212910432-22120e13-d8ea-49c0-ad82-f6ff80ea7aee.png)
 <br>
-- 상품 검색 기능   - 김XX 팀원 담당 기능<br>
+- 상품 검색 기능   - 김XX 팀원 담당<br>
   : 전체 상품을 키워드로 검색할 수 있습니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212913747-e5006c68-53e0-43b1-804e-51c2e0bdea71.png)
 <br>
-- 이벤트 조회, 등록, 수정, 삭제    - 홍XX 팀원 담당 기능<br>
+- 이벤트 조회, 등록, 수정, 삭제    - 홍XX 팀원 담당<br>
   : 기간을 지정하여 이벤트를 등록할 수 있습니다. 기간이 지나면 해당 이벤트에 참여가 불가능합니다.<br>
   이벤트 진행 중에 일반 회원들은 이벤트 참여가 가능하고 랜덤으로 회원들을 추첨하는 기능도 있습니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212911400-45bff4ac-2141-4de1-ad5f-29d52659faeb.png)
 <br>
 
----
+<hr>
+
 <br>
 
 # 읽어주셔서 감사합니다.
