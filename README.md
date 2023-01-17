@@ -24,7 +24,8 @@
 
 - ER Diagram 
 
-![image](https://user-images.githubusercontent.com/76987021/212905112-2858a2f1-6744-46e5-a7bf-36505b7861c3.png)
+![Tweeling](https://user-images.githubusercontent.com/76987021/212930968-01bae094-d708-4b94-8091-48b2d8bad322.png)
+
 
 - DB 설계 시 고려한 점 :
 
