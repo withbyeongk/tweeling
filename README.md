@@ -58,17 +58,22 @@
 
 ![image](https://user-images.githubusercontent.com/76987021/212918367-34376753-13e2-4d1d-bc0c-573faa196a52.png)
 
+<hr>
+
 - **기간별 주문 내역 조회**<br>
   : 오늘/1주일/한달/세달/여섯달 버튼을 클릭하여 기간별 주문조회를 할 수 있습니다. 또한 시작일과 종료일을 설정하여 조회할 수도 있습니다.<br>
   주문 내역의 아래쪽에는 가장 마지막 주문의 상품 정보를 보여줍니다.<br>
 
 ![image](https://user-images.githubusercontent.com/76987021/212919924-1cb543fb-dc07-497e-8189-758df8c26050.png)
 
+<hr>
+
 - **주문 내역 상세 조회**<br>
   : 주문한 상품들을 보여주며 리뷰를 등록 페이지로 연결합니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212921095-76781d16-c0e0-486f-a5c0-737fed51fa4b.png)
 
+<hr>
 
 - **관심 상품 조회**<br>
   : 해당 회원이 등록한 관심 상품 내역을 보여줍니다.<br>
@@ -101,10 +106,14 @@
 <br>
 </p>
 
+<hr>
+
 - 상품 조회    - 배XX 팀원 담당<br>
   : 우측의 사이드바를 두어 편리하게 메뉴를 이동할 수 있도록 하였으며, 드롭다운 선택버튼을 사용하여 최신순/가격순/판매순으로 상품을 정렬하는 기능을 추가하였습니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212909447-80e5899f-33f1-4f53-b75b-5e4a7e5c5b14.png)
+
+<hr>
 
 - 상품 등록, 수정, 삭제    - 배XX 팀원 담당<br>
   : 해당 상품의 셀럽, 카테고리, 상품명, 가격, 이미지 등을 입력할 수 있으며, 상품 수정 및 삭제할 수 있습니다.<br>
@@ -113,32 +122,49 @@
 <br>
 ![image](https://user-images.githubusercontent.com/76987021/212912959-4718e21a-f466-4f3f-bada-287accc0b1cb.png)
 
+<hr>
+
 - 상품 리뷰 등록   - 배XX 팀원 담당 기능<br>
   : 구매한 상품의 리뷰를 작성할 수 있고, 해당 상품의 상세 페이지에 리뷰가 표시됩니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212921410-69750170-7146-4c27-ade4-6d8c54d17b20.png)
 <br>
+
+<hr>
+
 - 상품 상세 조회, 장바구니에 상품 추가, 상품 구매    - 배XX 팀원 담당<br>
   : 상품의 상세 설명 페이지를 보여주며, 상품을 장바구니에 추가하거나 구매할 수 있습니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212909870-a2bd895e-a12c-4e13-9d6c-ae63a9478a8f.png)
 <br>
+
+<hr>
+
 - 장바구니 기능     - 김XX 팀원 담당<br>
   : 선택한 상품 삭제 및 개별 상품 삭제, 선택한 상품 및 개별 상품 구매, 관심 상품 추가, 전체 상품 구매를 할 수 있습니다.<br>
   또한 상품의 수량을 변경할 수 있고, 상품 수량변경 및 상품 선택 시 총 구매금액이 변경됩니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212910090-e50da334-8d19-4036-94dd-f3f168af9119.png)
 <br>
+
+<hr>
+
 - 구매 기능    - 김XX 팀원 담당<br>
   : 주문자 정보를 입력하여 상품을 구매할 수 있습니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212910432-22120e13-d8ea-49c0-ad82-f6ff80ea7aee.png)
 <br>
+
+<hr>
+
 - 상품 검색 기능   - 김XX 팀원 담당<br>
   : 전체 상품을 키워드로 검색할 수 있습니다.<br>
   
 ![image](https://user-images.githubusercontent.com/76987021/212913747-e5006c68-53e0-43b1-804e-51c2e0bdea71.png)
 <br>
+
+<hr>
+
 - 이벤트 조회, 등록, 수정, 삭제    - 홍XX 팀원 담당<br>
   : 기간을 지정하여 이벤트를 등록할 수 있습니다. 기간이 지나면 해당 이벤트에 참여가 불가능합니다.<br>
   이벤트 진행 중에 일반 회원들은 이벤트 참여가 가능하고 랜덤으로 회원들을 추첨하는 기능도 있습니다.<br>
